@@ -55,4 +55,4 @@ A popup will let you change the task text.
 ### 4. Complete task
 Click the checkbox beside a task to mark it as completed.
 Completed tasks appear with a line-through style or a different color.
-![alt text](<public/images/completed1.png>)
+![alt text](<public/images/completed2.png>)
