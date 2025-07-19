@@ -21,24 +21,6 @@ A simple and elegant **Todo List** application built with **React** and **TypeSc
 - React Hooks (`useState`, `useEffect`)
 - Icons (e.g., `react-icons`)
 
-## 📁 Folder Structure
-
-src/
-│
-├── components/
-│ ├── TodoForm.tsx
-│ ├── TodoItem.tsx
-│ ├── Checkbox.tsx
-│ ├── EditButton.tsx
-│ └── DeleteButton.tsx
-│
-├── types/
-│ └── Todo.ts
-│
-├── App.tsx
-├── index.tsx
-├── index.css
-└── App.css
 # 📸 Preview
 ### 1. No task available
 before the tasks are added:
@@ -56,3 +38,6 @@ A popup will let you change the task text.
 Click the checkbox beside a task to mark it as completed.
 Completed tasks appear with a line-through style or a different color.
 ![alt text](<public/images/completed2.png>)
+
+# ✍️ Author
+## Sifhoran Regassa
