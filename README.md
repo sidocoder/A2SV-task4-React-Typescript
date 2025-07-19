@@ -42,7 +42,7 @@ src/
 # 📸 Preview
 ### 1. No task available
 before the tasks are added:
-![alt text](images/welcome.png)
+![alt text](public/images/welcome.png)
 ### 2. Add task
 Type a task into the input field and click "+ Add Task".
 The task will be added to your list.
@@ -50,9 +50,9 @@ The task will be added to your list.
 ### 3. Edit task
 To update a task, click the Edit button.
 A popup will let you change the task text.
-![alt text](<images/edit1.png>)
-![alt text](<images/edit2.png>)
+![alt text](<public/images/edit1.png>)
+![alt text](<public/images/edit2.png>)
 ### 4. Complete task
 Click the checkbox beside a task to mark it as completed.
 Completed tasks appear with a line-through style or a different color.
-![alt text](<images/complete.png>)
+![alt text](<public/images/complete.png>)
