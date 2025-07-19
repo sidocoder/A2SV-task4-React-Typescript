@@ -42,11 +42,11 @@ src/
 # 📸 Preview
 ### 1. No task available
 before the tasks are added:
-![alt text](images/weolcome.png)
+![alt text](images/welcome.png)
 ### 2. Add task
 Type a task into the input field and click "+ Add Task".
 The task will be added to your list.
-![alt text](<images/add task.png>)
+![alt text](<public/images/add task.png>)
 ### 3. Edit task
 To update a task, click the Edit button.
 A popup will let you change the task text.
