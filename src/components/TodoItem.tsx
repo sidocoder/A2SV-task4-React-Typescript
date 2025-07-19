@@ -20,11 +20,13 @@ function TodoItem({ text, onDelete, onEdit }: TodoItemProps) {
   };
 
   return (
-    <div className="flex items-center gap-2">
+    <div className="item-box">
       <Checkbox checked={completed} onToggle={handleToggle} />
       <Todotext text={text} completed={completed} />
-      <EditButton onEdit={onEdit} />
-      <DeleteButton onDelete={onDelete} />
+      <div className="editdelete-btn">
+        <EditButton onEdit={onEdit} />
+        <DeleteButton onDelete={onDelete} />
+      </div>
     </div>
   );
 }

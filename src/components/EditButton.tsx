@@ -6,7 +6,7 @@ interface EditButtonProps {
 
 function EditButton({ onEdit }: EditButtonProps) {
   return (
-    <button onClick={onEdit} className="text-blue-400 hover:text-blue-600 transition">
+    <button onClick={onEdit} className="edit-btn">
       <Pencil size={18} />
     </button>
   );

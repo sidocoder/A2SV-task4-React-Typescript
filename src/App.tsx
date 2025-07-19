@@ -43,7 +43,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <div className="header">
-        <h3>welcome to <span className = "spann">Todo app</span></h3>
+        <h3>Welcome to My Cute <span className = "spann">Todo app 💖</span></h3>
         <hr className='line'/>
         <h1>List of items to do</h1>
       </div>

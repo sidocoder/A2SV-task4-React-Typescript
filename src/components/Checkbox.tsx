@@ -7,6 +7,7 @@ interface CheckboxProps {
 function Checkbox({ checked, onToggle }: CheckboxProps) {
   return (
     <input
+      className="checkbox"
       type="checkbox"
       checked={checked}
       onChange={onToggle}
